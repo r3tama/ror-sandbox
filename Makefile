@@ -7,4 +7,3 @@ stop:
 
 create_app:
 	docker-compose run --rm web rails new .
-
